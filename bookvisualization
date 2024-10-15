@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="uk">
+    <title>Візуалізація Angel Ver "Обіцяна душа" </title>
+<style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+        }
+        .gallery {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            padding: 10px;
+        }
+        .gallery div {
+            margin: 48px;
+            text-align: center;
+        }
+        img {
+            width: 800px;
+            height: auto;
+            border-radius: 8px;
+            box-shadow: 0 16px 24px rgba(0, 0, 0, 0.1);
+        }
+        p {
+            font-size: 24px;
+            color: #333;
+        }
+    </style>
+        <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <h1>Візуалізація книги "Обіцяна душа" Angel Ver</h1> 
+    
+    <div class="gallery">
+          </div>
+        <img src= "Map.jpg" alt="Опис зображення 1">
+            <p> Карта місцевості / Map of the area </p>
+            <img src="Лілія.jpg" alt="Опис зображення 1">
+            <p>Лілія / Lilia</p>
+            <img src="Володар.jpg" alt="Опис зображення 2">
+            <p>Володар темряви та душ Танатос / Lord of Darkness and Souls Tanatos</p>
+    
+        <img src="Трон.jpg" alt="Опис зображення 3">
+            <p>Трон / Throne</p>
+            <img src="Яма.jpg" alt="Опис зображення 4">
+            <p> Яма / Pit </p>
+      <img src="Рогатоголовий.jpg" alt="Опис зображення 2">
+            <p>Рогатоголовий/ Horned</p>
+    <img src="Шишиг.jpg" alt="Опис зображення 2">
+            <p>  Шишиг / Shishig </p>
+</body>
